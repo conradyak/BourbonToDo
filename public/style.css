@@ -1,0 +1,49 @@
+  html  {
+    overflow-y:scroll;
+  }
+
+  body {
+    padding-top:50px;
+    background-image: url("https://s-media-cache-ak0.pinimg.com/736x/59/b5/cd/59b5cd60fd92801ab6003bee2c3d78ca.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Domine', serif;
+  }
+
+  #todo-list {
+    margin-bottom:30px;
+  }
+
+  .jumbotron {
+    background-color: #F1F8E9;
+  }
+
+  .jumbotron h1 {
+    color:  #0A322A !important;
+    font-family: 'Domine', serif;
+    font-weight: bolder;
+    font-size: 100px;
+  }
+
+  .label-info {
+    background-color: white !important;
+    background-image: url("http://myweightlossdream.co.uk/images/slimming-world-whiskey.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    box-shadow: 10px 10px 5px #888888;
+    border-radius: .15em !important;
+    border-style: solid;
+    border-color: #E0F7FA;
+    border-width: .10em;
+    border-top: none;
+    font-family: 'Domine', serif !important;
+  }
+
+  #todo-list{
+    font-size: 20px;
+  }
+
+  button {
+    background-color: #0A322A !important;
+    border-color: #AED581 !important;
+  }
